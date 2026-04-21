@@ -1,0 +1,19 @@
+{
+  "name": "react-infinite-scroll-hook",
+  "version": "1.0.0",
+  "description": "A lightweight IntersectionObserver hook for handling React infinite scrolling.",
+  "main": "index.js",
+  "peerDependencies": {
+    "react": "^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0"
+  },
+  "keywords": [
+    "react",
+    "infinite-scroll",
+    "scroll",
+    "intersection-observer",
+    "hook",
+    "react-hook"
+  ],
+  "author": "Ahmar Hussain",
+  "license": "MIT"
+}
