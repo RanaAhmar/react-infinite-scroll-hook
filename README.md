@@ -57,6 +57,7 @@ function ItemList() {
 Infinite scrolling, when poorly implemented, can destroy performance scores (Core Web Vitals) due to heavy DOM operations bound to traditional scroll events. By utilizing the Hardware-Accelerated `IntersectionObserver` API, we guarantee buttery smooth 60fps scrolling, ensuring Google rewards your site with top tier algorithmic ranks.
 
 
+
 ---
 
 ## 🚀 Discover More from Stackaura
@@ -74,4 +75,5 @@ If you found this tool useful, check out our other high-performance web utilitie
 - **Author:** [Ahmar Hussain](https://github.com/RanaAhmar)
 
 ---
+
 
